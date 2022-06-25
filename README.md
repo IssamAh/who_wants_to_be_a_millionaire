@@ -2,7 +2,7 @@ Who wants to be a millionaire?
 
 1. Introduction
 
-This game is based on the German version of „Who wants to be a millionaire?“. There are 15 questions. Each questions is connected to a certain amount (in $): 
+There are 15 questions. Each question is connected to a certain amount (in $): 
 50, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 250000, 500000 and 1000000. All questions must be answered correctly to win 
 the million (the last question).
 There a similar coding blocks for all 15 questions:
