@@ -16,9 +16,9 @@ There a similar coding blocks for all 15 questions:
 	- Each lifeline can be used only once in the whole game.
 If the answer is correct, the game continues with the next question.
 If it is wrong there are three possibilites depending on which question has been reached:
-	- Between 0 $ and 500 $: User won 0 $, game over.
-	- Between 1000 $ and 16000 $: User won 500 $, game over.
-	- Between 32000 $ and 1000000 $: User won 16000 $, game over.
+	- Between 0 and 500: User won 0 $, game over.
+	- Between 1000 and 16000: User won 500 $, game over.
+	- Between 32000 and 1000000: User won 16000 $, game over.
       
 2. Design and Implementation
 
